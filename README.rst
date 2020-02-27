@@ -1,6 +1,6 @@
-.. image:: https://mila.quebec/wp-content/uploads/2019/12/mila-purple.png
-   :height: 80
-   :width: 120
+.. raw:: html
+
+    <img src="https://mila.quebec/wp-content/uploads/2019/12/mila-purple.png" height="120px">
 
 
 Mila Cookiecutter PyPackage
