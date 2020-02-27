@@ -1,4 +1,4 @@
-.. image:: https://drive.google.com/open?id=10fIYQ1-3Knx7rL-RzYi7VTJT5-J1Pj_N
+.. image:: https://drive.google.com/file/d/1pZuKmvzK3s52XK-eXV0CYdxyYj4L90Jg/view?usp=sharing
 
 
 Mila Cookiecutter PyPackage
