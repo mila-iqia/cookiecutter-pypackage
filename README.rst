@@ -1,6 +1,6 @@
 .. raw:: html
 
-    <img src="https://mila.quebec/wp-content/uploads/2019/12/mila-purple.png" height="120px">
+    <img src="https://mila.quebec/wp-content/uploads/2019/12/mila-purple.png" height="120px" align="right">
 
 
 Mila Cookiecutter PyPackage
