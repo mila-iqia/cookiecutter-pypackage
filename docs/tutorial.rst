@@ -102,7 +102,7 @@ Step 5: Set Up Travis CI
 
 `Travis CI org`_ [*]_ is a continuous integration tool used to prevent integration problems. Every commit to the master branch will trigger automated builds of the application.
 
-Login using your Github credentials. It may take a few minutes for Travis CI to load up a list of all your GitHub repos. They will be listed with boxes to the left of the repo name, where the boxes have an ``X`` in them, meaning it is not connected to Travis CI.
+Login using your GitHub credentials. It may take a few minutes for Travis CI to load up a list of all your GitHub repos. They will be listed with boxes to the left of the repo name, where the boxes have an ``X`` in them, meaning it is not connected to Travis CI.
 
 Add the public repo to your Travis CI account by clicking the ``X`` to switch it "on" in the box next to the ``mypackage`` repo. Do not try to follow the other instructions, that will be taken care of next.
 
@@ -114,7 +114,7 @@ In your terminal, your virtualenv should still be activated. If it isn't, activa
 
 This will:
 
-* Encrypt your PyPI password in your Travis config.
+* Encrypt your PyPI password in your Travis configuration.
 * Activate automated deployment on PyPI when you push a new tag to master branch.
 
 See :ref:`travis-pypi-setup` for more information.

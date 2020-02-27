@@ -1,6 +1,5 @@
 .. _troubleshooting:
 
-===============
 Troubleshooting
 ===============
 
@@ -17,13 +16,13 @@ Windows Issues
 
 * Virtual environments can sometimes be tricky on Windows. If you have Python 3.5 or above installed (recommended), this should get you a virtualenv named ``myenv`` created inside the current folder:
 
-.. code-block:: powershell
+.. code-block:: bash
 
     > c:\Python35\python -m venv myenv
 
 Or:
 
-.. code-block:: powershell
+.. code-block:: bash
 
     > c:\Python35\python c:\Python35\Tools\Scripts\pyvenv.py myenv
 
