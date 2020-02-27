@@ -1,4 +1,4 @@
-.. image:: https://lh3.googleusercontent.com/_3B8dLfWj2xe28GtHOkfJ9xSLe9shOOp2oXsTJTkk8TsX0lh4TNwCW_nuYOqJdQHTMigcodTBl5QO5q9paCdBEZ65Gnkqqx1Rvsx3fgr7y8yEjpAyuOz=w1280
+.. image:: https://github.com/mila-iqia/pypackage/Mila_LOGO_HORIZONTAL_standard_RGB.ai
 
 
 Mila Cookiecutter PyPackage
