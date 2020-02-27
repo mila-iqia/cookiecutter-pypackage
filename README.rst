@@ -1,4 +1,4 @@
-.. image:: https://drive.google.com/file/d/1pZuKmvzK3s52XK-eXV0CYdxyYj4L90Jg/view?usp=sharing
+.. image:: https://mila.quebec/wp-content/uploads/2019/12/mila-purple.png
 
 
 Mila Cookiecutter PyPackage
