@@ -1,12 +1,12 @@
 Mila Cookiecutter PyPackage
 ===========================
-
-.. image:: https://pyup.io/repos/github/mila-iqia/cookiecutter-pypackage/shield.svg
-     :target: https://pyup.io/repos/github/mila-iqia/cookiecutter-pypackage/
-     :alt: Updates
-
-.. image:: https://travis-ci.org/mila-iqia/cookiecutter-pypackage.svg?branch=master
-    :target: https://travis-ci.org/mila-iqia/cookiecutter-pypackage
+..
+.. .. image:: https://pyup.io/repos/github/mila-iqia/cookiecutter-pypackage/shield.svg
+..      :target: https://pyup.io/repos/github/mila-iqia/cookiecutter-pypackage/
+..      :alt: Updates
+..
+.. .. image:: https://travis-ci.org/mila-iqia/cookiecutter-pypackage.svg?branch=master
+..     :target: https://travis-ci.org/mila-iqia/cookiecutter-pypackage
 
 Cookiecutter_ template for a Python package.
 
@@ -27,20 +27,20 @@ Features
 
 .. _Cookiecutter: https://github.com/mila-iqia/cookiecutter
 
-Build Status
--------------
-
-Linux:
-
-.. image:: https://img.shields.io/travis/mila-iqia/cookiecutter-pypackage.svg
-    :target: https://travis-ci.org/mila-iqia/cookiecutter-pypackage
-    :alt: Linux build status on Travis CI
-
-Windows:
-
-.. image:: https://ci.appveyor.com/api/projects/status/github/mila-iqia/cookiecutter-pypackage?branch=master&svg=true
-    :target: https://ci.appveyor.com/project/mila-iqia/cookiecutter-pypackage/branch/master
-    :alt: Windows build status on Appveyor
+.. Build Status
+.. -------------
+..
+.. Linux:
+..
+.. .. image:: https://img.shields.io/travis/mila-iqia/cookiecutter-pypackage.svg
+..     :target: https://travis-ci.org/mila-iqia/cookiecutter-pypackage
+..     :alt: Linux build status on Travis CI
+..
+.. Windows:
+..
+.. .. image:: https://ci.appveyor.com/api/projects/status/github/mila-iqia/cookiecutter-pypackage?branch=master&svg=true
+..     :target: https://ci.appveyor.com/project/mila-iqia/cookiecutter-pypackage/branch/master
+..     :alt: Windows build status on Appveyor
 
 Quickstart
 ----------
@@ -74,34 +74,3 @@ Then:
 For more details, see the `cookiecutter-pypackage tutorial`_.
 
 .. _`cookiecutter-pypackage tutorial`: https://cookiecutter-pypackage.readthedocs.io/en/latest/tutorial.html
-
-Not Exactly What You Want?
---------------------------
-
-Don't worry, you have options:
-
-Submit a Pull Request
-~~~~~~~~~~~~~~~~~~~~~
-
-I also accept pull requests on this, if they're small, atomic, and if they
-make my own packaging experience better.
-
-
-.. _Travis-CI: http://travis-ci.org/
-.. _Tox: http://testrun.org/tox/
-.. _Sphinx: http://sphinx-doc.org/
-.. _Read the Docs: https://readthedocs.io/
-.. _`pyup.io`: https://pyup.io/
-.. _bump2version: https://github.com/c4urself/bump2version
-.. _Punch: https://github.com/lgiordani/punch
-.. _Pipenv: https://pipenv.readthedocs.io/en/latest/
-.. _PyPi: https://pypi.python.org/pypi
-
-.. _`Nekroze/cookiecutter-pypackage`: https://github.com/Nekroze/cookiecutter-pypackage
-.. _`tony/cookiecutter-pypackage-pythonic`: https://github.com/tony/cookiecutter-pypackage-pythonic
-.. _`ardydedase/cookiecutter-pypackage`: https://github.com/ardydedase/cookiecutter-pypackage
-.. _`lgiordani/cookiecutter-pypackage`: https://github.com/lgiordani/cookiecutter-pypackage
-.. _`briggySmalls/cookiecutter-pypackage`: https://github.com/briggySmalls/cookiecutter-pypackage
-.. _github comparison view: https://github.com/tony/cookiecutter-pypackage-pythonic/compare/audreyr:master...master
-.. _`network`: https://github.com/audreyr/cookiecutter-pypackage/network
-.. _`family tree`: https://github.com/audreyr/cookiecutter-pypackage/network/members
